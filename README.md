@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pratyush2331
-- 👀 I’m interested in Competitive Programing, Web Development, Android Development...
-- 🌱 I’m currently pursuing B.Tech in ECE from Vellore Institute of Technology
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
