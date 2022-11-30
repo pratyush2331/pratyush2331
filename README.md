@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @pratyush2331
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratyush2331&show_icons=true&theme=dark&line_height=27" />
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
