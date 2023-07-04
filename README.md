@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=pratyush2331&style=plastic)
-
 - 👋 Hi, I’m @pratyush2331😎
+
+![](https://komarev.com/ghpvc/?username=pratyush2331&style=plastic)
 
 <img src="https://github-readme-stats.vercel.app/api?username=pratyush2331&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&show_icons=true" />
 <!---- 💞️ I’m looking to collaborate on ...
