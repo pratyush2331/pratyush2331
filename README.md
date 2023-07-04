@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=pratyush2331&style=flat-square)
+![](https://komarev.com/ghpvc/?username=pratyush2331&style=plastic)
 
 - 👋 Hi, I’m @pratyush2331😎
 
