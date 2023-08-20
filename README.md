@@ -1,3 +1,5 @@
+## こんいちわ みんなーさん、プラテューシュ です
+
 ### <img src="https://github.com/pratyush2331/pratyush2331/blob/main/assets/Hi.gif" width="29px"> Hi, I’m @pratyush2331😎
 
 ![](https://komarev.com/ghpvc/?username=pratyush2331&style=plastic)
